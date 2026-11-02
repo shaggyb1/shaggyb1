@@ -3,6 +3,8 @@
 **Full Stack Developer** in Delhi and Nagpur, India.
 I design, build and launch web apps, AI tools and Android apps, and I'm looking for a full-time role, remote or on site.
 
+**Portfolio, with live demos of each project: [shaggyb1.github.io](https://shaggyb1.github.io)**
+
 ## What I've built
 
 | Project | What it is | Tech |
@@ -30,4 +32,4 @@ I use Claude Code to ship faster, mainly for debugging and corrections. I decide
 
 ## Contact
 
-bhushan20082@gmail.com · [LinkedIn](https://linkedin.com/in/bhushan-kumbhare-dev)
+bhushan20082@gmail.com · [Portfolio](https://shaggyb1.github.io) · [LinkedIn](https://linkedin.com/in/bhushan-kumbhare-dev)
