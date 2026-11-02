@@ -14,7 +14,7 @@ I design, build and launch web apps, AI tools and Android apps, and I'm looking 
 | **Naad Music** | Ad-free music player that only uses official sources. In progress. | React, TypeScript, Node.js, PostgreSQL |
 | **E-Commerce Consultancy** | Client website. Enquiries go to the owner's Google Sheet and email. | HTML, CSS, JavaScript, Google Apps Script |
 
-Most of this code is private because it belongs to live products or clients. I'm happy to walk you through any of it.
+Most of this code is private because it belongs to live products or clients. [credit-meter](https://github.com/shaggyb1/credit-meter) is a public piece of Upsoar: its credit ledger, model routing and profitability tests. I'm happy to walk you through the rest.
 
 ## Skills
 
